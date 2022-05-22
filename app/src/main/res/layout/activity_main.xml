@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:fontFamily="@font/roboto"
-        android:text="Передённый текст"
+        android:text="Переведённый текст"
         android:textAlignment="center"
         android:textColor="#003202"
         android:textSize="25dp"

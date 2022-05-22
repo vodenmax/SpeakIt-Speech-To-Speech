@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.ISpeak" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#9E91F2</item>
+        <item name="colorPrimary">#bf36a9</item>
         <item name="colorPrimaryVariant">@color/black</item>
         <item name="colorOnPrimary">@color/black</item>
         <!-- Secondary brand color. -->
