@@ -16,9 +16,12 @@
     </item>
     <item>
         <shape android:shape="rectangle">
+            <gradient
+                android:angle="45"
+                android:endColor="#bf36a9"
+                android:startColor="#be2af7" />
         <corners android:radius="10dip"/>
-        <stroke android:width="2dip" android:color="#9E91F2"/>
-        <solid android:color="#9E91F2"/>
+
         </shape>
     </item>
 </selector>
