@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">iSpeak - быстрый перевод</string>
+
+    <string-array name="languages" textColor="white">
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Italian</item>
+        <item>Korean</item>
+        <item>Japanese</item>
+    </string-array>
+</resources>
