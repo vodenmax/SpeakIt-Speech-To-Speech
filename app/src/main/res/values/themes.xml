@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.ISpeak" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="Theme.SpeakIt" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#bf36a9</item>
         <item name="colorPrimaryVariant">@color/black</item>
